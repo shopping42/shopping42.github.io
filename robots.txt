@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shopping42.github.io/sitemap.xml
